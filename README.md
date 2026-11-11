@@ -1,17 +1,28 @@
-# portfolio
+# Simple Portfolio Page
 
-portfolio ui
+A simple personal portfolio page built with Flutter and Dart.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This project is a personal portfolio page that introduces me as an aspiring Flutter Developer.
 
-A few resources to get you started if this is your first Flutter project:
+The design is based on a Figma reference, with my own profile picture and customized text content.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Personal profile image.
+- Short introduction.
+- Clean and simple UI.
+- LinkedIn contact button.
+
+## Built With
+
+- Flutter
+- Dart
+- url_launcher
+
+## Developer
+
+**Mahmoud Mo3tamed**
+
+[LinkedIn Profile](https://www.linkedin.com/in/mahmoud-mo3tamd-1bb709449/)
